@@ -1,5 +1,7 @@
 Projeto de Pesquisa de CEP:
 
+<hr>
+
 O projeto de pesquisa de CEP é uma aplicação web que permite aos usuários pesquisar e obter informações detalhadas sobre um CEP (Código de Endereçamento Postal) específico no Brasil. Ele oferece uma interface simples e intuitiva, onde os usuários podem inserir um CEP em um campo de entrada e, ao pressionar um botão ou tecla de confirmação, os detalhes associados a esse CEP são recuperados e exibidos na mesma página.
 
 Principais recursos do projeto:
