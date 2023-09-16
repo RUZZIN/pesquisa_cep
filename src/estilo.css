@@ -1,0 +1,60 @@
+body {
+  font-family: 'Poppins', sans-serif;
+  background-repeat: no-repeat;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background: rgb(131,58,180);
+  background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 75%);
+}
+
+form label {
+  display: inline;
+  margin-bottom: 5px;
+  text-align: left;
+}
+form input[type=text] {
+  width: 95%;
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+}
+form button {
+  background: rgb(131,58,180);
+  background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 75%);
+  color: #fff;
+  border: none;
+  font-weight: bold;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.container {
+  max-width: 400px;
+  background-color: #ffffff;
+  padding: 20px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  border-radius: 5px;
+  text-align: center;
+}
+
+.container2 {
+  max-width: 400px;
+  background-color: #fff;
+  padding: 20px;
+  margin-top: 10px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  border-radius: 5px;
+  text-align: center;
+}
+
+.container h1 {
+  margin-bottom: 20px;
+}
+
+/*# sourceMappingURL=estilo.css.map */
